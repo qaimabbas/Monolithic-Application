@@ -13,4 +13,4 @@ dependencies": {
   }
   
   First install npm init 
-  Secndoly install all the packages above and run index.js
+  Secondly install all the packages above and run index.js
